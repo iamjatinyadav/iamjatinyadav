@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently working on my skills.<br>🤝 I’m looking for help with learning advanced Django.<br>🌱 I’m currently learning data structure and algorithms.<br>💬 Ask me about python, HTML, CSS, and Django.<br>⚡ Fun fact I Am Funny.
+🔭 I’m currently working on my skills.<br>🤝 I’m looking for help to learn advanced Django.<br>🌱 I’m currently learning data structure and algorithms.<br>💬 Ask me about python, HTML, CSS, and Django.<br>⚡ Fun fact I Am Funny.
 
 
 ## 🌐 Socials:
