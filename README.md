@@ -6,11 +6,11 @@
 
 I'm a passionate software developer with a love for learning and building innovative solutions. I enjoy working with a variety of technologies and constantly strive to improve my skills.
 
-- 🌱 I’m currently learning **[new technology or framework]**
-- 👯 I’m looking to collaborate on **Open Source Projects**
-- 🤔 I’m looking for help with **[specific project or technology]**
+- 🌱 I’m currently learning Rust and JavaScript.
+- 👯 I’m looking to collaborate on Open Source Projects
+- 🤔 I’m looking for help with Django, Python.
 - 💬 Ask me about **Web Development, JavaScript, Python, and more**
-- 📫 How to reach me: [email@example.com](mailto:email@example.com)
+- 📫 How to reach me: [jatinyadav0000@gmail.com](mailto:jatinyadav0000@gmail.com)
 - 😄 Pronouns: He/His
 - ⚡ Fun fact: I love to play chess and solve puzzles!
 
@@ -34,7 +34,7 @@ I'm a passionate software developer with a love for learning and building innova
 
 - LinkedIn: [Jatin Yadav](https://www.linkedin.com/in/iamjatinyadav)
 - Twitter: [@iamjatinyadav](https://twitter.com/iamjatinyadav)
-- Personal Website: [www.jatinyadav.com](https://www.jatinyadav.com)
+- Personal Website: [www.makechanges.xyz](https://www.makechanges.xyz)
 
 ---
 
